@@ -1,0 +1,1 @@
+Commit di test per promozione su staging, collaudo e produzione.
